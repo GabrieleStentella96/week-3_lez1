@@ -1,0 +1,22 @@
+
+body {
+    background-color: #fff050;
+    
+}
+
+.container {
+    width: 400px;
+    height: 400px;
+    margin-top: 10rem;
+    margin-left: 35rem;
+    border: 5px #5917d2 solid;
+    padding-left: 1rem;
+    
+}
+.container h1 {
+    font-size: 4rem;
+    text-align: center;
+}
+p {
+    font-weight: strong;
+}
